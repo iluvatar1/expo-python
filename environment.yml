@@ -1,0 +1,20 @@
+name: scientific-python
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - rise
+  - scipy
+  - seaborn
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - ipyvolume
+  - sympy
+  - bokeh
+  - openpyxl
+  - imageio
+  - scikit-learn
+  - vpython
